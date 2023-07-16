@@ -2,7 +2,7 @@ import React from 'react'
 
 export const index = () => {
   return (
-    <div>home</div>
+    <div className='text-red-600 text-3xl font-dancing'>home</div>
   )
 }
 
